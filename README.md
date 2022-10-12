@@ -1,4 +1,4 @@
-### Hi there, welcome to my page 👋
+# Hi there, welcome to my page 👋
 
 <!--
 **josephagadaga/josephagadaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I hold a National Diploma in Civil Engineering (Plateau State Polytechnic, Barkin Ladi - onsite) and an Associate Degree in Computer Science (University of the People - virtual) I am also a student of the mentioned schools pursuing my Higher National Diploma in Civil Engineering and Bachelor of Science in Cokmputer Science respectively.
 
-### Tech Stark
+# Tech Stark
 
 
-# Database
+## Database
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
