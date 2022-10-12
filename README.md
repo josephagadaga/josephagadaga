@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I hold a National Diploma in Civil Engineering (Plateau State Polytechnic, Barkin Ladi - onsite) and an Associate Degree in Computer Science (University of the People - virtual) I am also a student of the mentioned schools pursuing my Higher National Diploma in Civil Engineering and Bachelor of Science in Cokmputer Science respectively.
 
-# Tech Stark
+# Tech Stack
 
 
 ## Database
