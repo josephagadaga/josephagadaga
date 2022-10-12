@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: twiter (@agadagajoseph)
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I hold a National Diploma Civil Engineering (Plateau State Polytechnic, Barkin Ladi), Associate Degree in Computer Science (University of the People)
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
